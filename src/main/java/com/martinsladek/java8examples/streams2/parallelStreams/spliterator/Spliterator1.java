@@ -16,7 +16,6 @@ public class Spliterator1 {
         al1.add(-4);
         al1.add(5);
 
-
         // Use tryAdvance() to display(action) contents of arraylist.
         System.out.print("Contents of arraylist:\n");
 
